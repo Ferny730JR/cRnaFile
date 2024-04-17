@@ -13,6 +13,11 @@
 #define BASES "ACGU"
 
 /**
+ *  @brief Get the maximum of two comparable values
+ */
+#define MAX2(A, B)      ((A) > (B) ? (A) : (B))
+
+/**
  *  @brief Safely allocates memory
  * 
  *  @param mem_size The size of memory to be allocated in bytes
