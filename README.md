@@ -1,0 +1,1 @@
+A C library for parsing fasta/fastq/sequence files.
