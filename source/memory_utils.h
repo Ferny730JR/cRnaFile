@@ -1,5 +1,5 @@
-#ifndef UTILS_H
-#define UTILS_H
+#ifndef MEMORY_UTILS_H
+#define MEMORY_UTILS_H
 
 #define ANSI_COLOR_RED      "\x1b[31m"
 #define ANSI_COLOR_GREEN    "\x1b[32m"
@@ -59,4 +59,4 @@ void error_message(const char *format, ...);
 */
 void warning_message(const char *format, ...);
 
-#endif
+#endif // MEMORY_UTILS
