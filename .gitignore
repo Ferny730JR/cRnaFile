@@ -1,2 +1,5 @@
 # Ignore Mac OS X directory attribute files
 .DS_Store
+
+# Ignore VisualStudio Code project specific attributes
+.vscode
